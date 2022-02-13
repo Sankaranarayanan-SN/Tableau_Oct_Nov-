@@ -1,0 +1,16 @@
+Scenarios:
+
+1.Find the profit and sales for each subcategory of every type of product.
+2. Which subcategory has highest profit in the year 2019.
+3. In case 1, change the color of the view from the Marks card.
+4. In the view, in the Sub-Category filter card, clear all of the check boxes except Bookcases, Machines, and Tables to have closer look on each value.
+5. Find out the key insights about in which year bookcases and machines were profitable and unprofitable.
+6. Show the sales region wise for every subcategory and category and every year.
+7. Duplicate your worksheet and check sales region vise for Machine type subcategory.
+8. In which region you are reporting a higher negative profit overall than in your other regions. 
+9. Show your view for  Sales in the South for all subcategory.
+10. Which subcategory has highest overall negative profit in the south region.
+11. Take some decisions to improve profit in the south.
+12. Rename your worksheet.
+13. Save your workbook.
+
